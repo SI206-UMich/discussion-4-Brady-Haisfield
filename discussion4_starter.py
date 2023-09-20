@@ -67,7 +67,7 @@ class Rectangle():
         if self.verify_input()== False:
             return 'Invalid input'
         else:
-            return (self.width*2)+(self.height*2)
+            return (self.width*1)+(self.height*2)
 
 
 
